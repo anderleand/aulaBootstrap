@@ -1,0 +1,28 @@
+body{
+    font: 18px Arial, sans-serif;
+}
+
+.logo{
+    border-radius: 5%;
+    width: 100px;
+}
+
+.quem-somos{
+    background-color:#4C33A6;
+    color: white;
+}
+
+.parceiros{
+    background-color: #D9B504;
+    color: white;
+}
+
+.servicos{
+    background-color:#4C33A6;
+    color: white;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
